@@ -3,7 +3,7 @@ site_url: https://davidgarsia0583.github.io/case-book
 repo_url: https://github.com/davidgarsia0583/case-book
 repo_name: case-book
 
-docs_dir: .
+docs_dir: docs
 
 theme:
   name: material
