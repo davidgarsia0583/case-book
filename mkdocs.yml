@@ -1,31 +1,19 @@
 site_name: Garsia Case Book
-site_url: https://davidgarsia0583.github.io/case-book
-repo_url: https://github.com/davidgarsia0583/case-book
-repo_name: case-book
-
-docs_dir: docs
-
+site_url: https://davidgarsia0583.github.io/case-book/
 theme:
   name: material
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.indexes
-    - toc.integrate
-    - content.code.copy
-  language: en
-
-markdown_extensions:
-  - footnotes
-  - admonition
-  - attr_list
-  - toc:
-      permalink: true
-  - tables
 
 nav:
   - Home: index.md
   - Chapters:
       - Standing: chapters/01_Standing.md
       - Procida: chapters/02_Procida.md
-  - Exhibits: exhibits/
+      - Weissman: chapters/03_Weissman.md
+      - Investors: chapters/04_Investors.md
+      - Perkins: chapters/05_Perkins.md
+      - Guarantee: chapters/06_Guarantee.md
+      - Totowa: chapters/07_Totowa.md
+      - Political Connections: chapters/08_Political_Connections.md
+      - NJEDA & Public Funding: chapters/09_NJEDA.md
+  - Exhibits:
+      - Exhibit Index: exhibits/index.md
