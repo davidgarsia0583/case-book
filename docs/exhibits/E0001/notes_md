@@ -1,0 +1,75 @@
+---
+id: EXXXX
+title: <Short Descriptive Title>
+date_primary: YYYY-MM-DD
+date_range: YYYY-MM-DD..YYYY-MM-DD
+type: <email_correspondence | court_order | bank_record | security_footage | photograph | affidavit | transcript | other>
+source: "<Name / Organization of origin>"
+location: "<City, State or 'Multiple'>"
+
+actors:
+  - "<Name 1>"
+  - "<Name 2>"
+  - "<Name 3>"
+
+defendants:
+  - "<Defendant 1>"
+  - "<Defendant 2>"
+
+predicate_acts:
+  - "mail_fraud"
+  - "wire_fraud"
+  - "bank_fraud"
+  - "extortion"
+  - "money_laundering"
+  - "bribery"
+  - "obstruction"
+  - "conspiracy"
+
+enterprise_links:
+  - "<Explain how this connects to the broader enterprise>"
+
+relevance:
+  - "<Summarize why this matters factually or legally>"
+  - "<If it ties multiple defendants, describe the nexus>"
+
+issues:
+  - "Standing"
+  - "Enterprise"
+  - "Fraudulent Transfer"
+  - "Predicate Acts"
+  - "Bank Involvement"
+
+related_chapters:
+  - "Standing"
+  - "Procida"
+  - "Sills"
+  - "CNOB"
+  - "Trustee"
+  - "Perkins"
+
+related_exhibits: ["E0000"]
+
+file: file.pdf
+
+summary: >
+  <Brief 3–6 sentence factual summary. Describe what this evidence shows, what date range
+  it covers, and how it fits into the timeline or enterprise. Focus on facts first,
+  then on implications.>
+
+---
+
+# Notes
+- **Key Quotes:**  
+  > "<Include any relevant quote or excerpt from the document>"
+
+- **Observed Inconsistencies:**  
+  - <e.g. contradicts Trustee’s report dated ...>
+
+- **Cross-References:**  
+  - Standing §II.A  
+  - Procida §I.C  
+  - CNOB §I.A  
+
+- **Next Use:**  
+  - <e.g. cite in Standing Brief, paragraph 24>
